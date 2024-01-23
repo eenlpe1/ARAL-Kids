@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Onboarding Scene 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Onboarding Scene 2.unity
+    guid: a5dd1aaf8ee990746bcd97e7f75eb13f
+  - enabled: 1
+    path: Assets/Scenes/Onboarding Scene 3.unity
+    guid: 47cb5834772641541b9af4689a506b92
+  - enabled: 1
+    path: Assets/Scenes/Home Screen.unity
+    guid: 9655e8b040634a64f8a57bcde1dd4819
+  - enabled: 1
+    path: Assets/Scenes/Solid Lesson Scene.unity
+    guid: 0581dcc254462bb448eb1af29bec5605
+  - enabled: 1
+    path: Assets/Scenes/Liquid Lesson Scene.unity
+    guid: c4fa5d5b25265a24bae1287c6a2f58ef
+  - enabled: 1
+    path: Assets/Scenes/Gas Lesson Scene.unity
+    guid: 5ba8461356ae20a449468833903f069b
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Solid Matter/NoteBook.unity
+    guid: a024a90ee9a812e48816d07846b073e5
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Solid Matter/Rock.unity
+    guid: ee3f4e601f1c28a44b3eecc397948bf1
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Solid Matter/BackPack.unity
+    guid: 33cb29462830a19409e55346fede5447
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Liquid Matter/Water.unity
+    guid: 19f414859b8c61440b06e6f0e44dac3d
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Liquid Matter/Milk.unity
+    guid: a4c17dfd5ac5ed141a1cfa9dbe05251c
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Liquid Matter/Soda.unity
+    guid: a69f6392f4e44354d8880cdb71102ca3
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Gas Matter/Balloon.unity
+    guid: b7898ba4ba774cc4492695421faa619d
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Gas Matter/Bubbles.unity
+    guid: 6e5de2a943941f1498934f384d6b5523
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Gas Matter/Clouds.unity
+    guid: 63a4870f46d10dd45a33979e2cf4517c
+  - enabled: 1
+    path: Assets/Scenes/Kinds of Matter Activities.unity
+    guid: b09745b454d13ef419c8158f64855951
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Activities/Matter No. 1.unity
+    guid: 068aab6e4e1abd84985b8d78d0a1cbe3
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Activities/Matter No. 2.unity
+    guid: d34af0be4e3ac5c40bb2d7cc8b408be4
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Activities/Matter No. 3.unity
+    guid: 8c6b7fac08c30b940af1b112e1f89a84
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Activities/Matter No. 4.unity
+    guid: 982a00417e971d3459a160511e0463b2
+  - enabled: 1
+    path: Assets/Scenes/AR Scenes/Activities/Matter No. 5.unity
+    guid: 6ba942ee05f587b408f03ed3955459af
+  m_configObjects: {}
