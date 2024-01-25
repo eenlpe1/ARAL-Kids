@@ -77,4 +77,6 @@ Once you have installed the ```ARAL-Kids Mobile Application``` and downloaded th
   - Make sure you send the PR to the <code>fooBar</code> branch.
   - Travis CI is watching you!
 
-If you follow these instructions, your PR will land pretty safely in the main repo!
+If you follow these instructions, your PR will land pretty safely in the main repo
+
+*Readme Documentation inspired from [The Documentation Compendium](https://github.com/kylelobo/The-Documentation-Compendium).*
