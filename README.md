@@ -5,6 +5,7 @@
 + [Built Using](#built_using)
 + [Prerequisites](#prerequisites)
 + [Getting Started](#getting_started)
++ [Installing](#installing)
 + [Usage](#usage)
 + [Contributing](#contributing_guide)
 
@@ -23,7 +24,7 @@
 ## Getting Started <a name = "getting_started"></a>
 To run this project on your local machine, [Fork or Download this repository](https://github.com/eenlpe1/ARAL-Kids) and open it with ```Unity Editor Version: 2022.3.13.f1```.
 
-## Installing
+## Installing <a name = "installing"></a>
 + To try the prototype of this project, download and install the APK [ARAL-Kids Mobile Application](https://drive.google.com/file/d/1LhXU8r-SrSfWhzUknltH_WbkbsOM6aR9/view?usp=drive_link).
 + Download the [Image Markers](https://docs.google.com/document/d/1EMSi11wak6yni6lPFKq5jrbNdm7JzKUnlOzjTEMUmPU/edit?usp=sharing) at this link.
   
